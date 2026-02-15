@@ -1,5 +1,3 @@
-# Hey, I'm Vojtěch 👋
-
 **Backend Developer · DevOps · Technical Writer**
 
 I build CLI tools, MCP servers, and backend systems — mostly in Rust and TypeScript.
