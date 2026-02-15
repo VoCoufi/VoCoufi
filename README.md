@@ -2,7 +2,8 @@
   
 # Backend Developer · DevOps · Technical Writer
 
-I build CLI tools, MCP servers, and backend systems — mostly in Rust and TypeScript.
+I like turning ideas into real, useful tools — from CLI utilities and MCP servers to backend systems and DevOps workflows. 
+I mostly work with Rust, Java, and TypeScript, and I enjoy writing technical documentation that actually helps people. Always looking for the next interesting project to build.
 
 ---
 
