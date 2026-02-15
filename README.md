@@ -1,4 +1,4 @@
-**Backend Developer · DevOps · Technical Writer**
+# **Backend Developer · DevOps · Technical Writer**
 
 I build CLI tools, MCP servers, and backend systems — mostly in Rust and TypeScript.
 
