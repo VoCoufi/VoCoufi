@@ -1,9 +1,9 @@
 <div align="center">
   
-# Backend Developer · DevOps · Technical Writer
+# Welcome to my workshop
 
-I like turning ideas into real, useful tools — from CLI utilities and MCP servers to backend systems and DevOps workflows. 
-I mostly work with Rust, Java, and TypeScript, and I enjoy writing technical documentation that actually helps people. Always looking for the next interesting project to build.
+I like building things that solve real problems — CLI tools, MCP servers, backend systems, and whatever else catches my interest. 
+Rust, Java, and TypeScript are my go-to languages. I also enjoy writing docs that don't make people fall asleep. Always chasing the next fun project.
 
 ---
 
